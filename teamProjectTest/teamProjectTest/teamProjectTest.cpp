@@ -2,17 +2,16 @@
 //
 
 #include <iostream>
-#include <cstring>
+
 
 int main()
 {
-    std::string x;
+   
     std::cout << " Please enter your name\n";
-    std::cin >> x;
     std::cout << "Hello Janelle!\n"; // Kallums code
     std::cout << "Hello Kallum!\n"; //Janelle's code lol
-    std::cout << "SWAG SWAG SWAG\n"; // Kallums code
-    std::cout << x;
+    
+    
     
 
 }
